@@ -7,5 +7,7 @@ Project URL:
 https://1drv.ms/x/s!Agrn_bdzKydQg2Qs72TWo2XntPry
 
 
+
+
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
 
