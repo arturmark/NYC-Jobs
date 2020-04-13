@@ -12,4 +12,6 @@ Python dashboard elements:
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
 
 Python shell output:
+
+
 ![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
