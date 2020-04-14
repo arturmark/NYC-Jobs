@@ -16,6 +16,7 @@ Started this project in Nov 2019, using at the begining Excel, VBA and power que
 
 
 # Python dashboard elements:
+Recent jobs update: 2020-04-07
 
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Dashboard.png)
 
