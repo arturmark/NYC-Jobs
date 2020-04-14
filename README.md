@@ -2,7 +2,7 @@
 
 Thi is HR Dashboard displaying current job postings form the City of New York.
 
-Data are extracted directly from online source - public API from this url: 
+Data are extracted directly from online source - public API updated weekly, from this url: 
 
 https://data.cityofnewyork.us/api/views/kpav-sd4t/rows.csv
 
