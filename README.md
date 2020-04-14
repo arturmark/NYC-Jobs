@@ -24,8 +24,12 @@ Recent jobs update: 2020-04-07
 
 # Python shell output:
 
-
 ![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
+
+Dataset overview:
+
+![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
+
 
 
 # Excel dashboard url: 
