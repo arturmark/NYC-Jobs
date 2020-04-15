@@ -6,7 +6,7 @@ Data are extracted directly from online source - public API updated weekly, from
 
 https://data.cityofnewyork.us/api/views/kpav-sd4t/rows.csv
 
-New York official website with current job postings is available here:
+The New York official website with current public job postings is available here:
 
 https://www1.nyc.gov/jobs/explore-careers.page
 
