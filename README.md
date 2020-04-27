@@ -22,7 +22,7 @@ Recent jobs update: 2020-04-07
 
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
 
-Preferred skills:
+Preferred skills with wordcloud:
 
 ![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
 
