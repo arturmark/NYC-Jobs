@@ -30,7 +30,9 @@ Dataset overview:
 
 ![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
 
+Preferred skills:
 
+![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
 
 # Excel dashboard url: 
 
