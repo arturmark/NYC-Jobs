@@ -22,6 +22,10 @@ Recent jobs update: 2020-04-07
 
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
 
+Preferred skills:
+
+![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
+
 # Python shell output:
 
 ![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
@@ -30,9 +34,7 @@ Dataset overview:
 
 ![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
 
-Preferred skills:
 
-![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
 
 # Excel dashboard url: 
 
