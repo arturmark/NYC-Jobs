@@ -30,6 +30,8 @@ Dataset - NA values visualisation:
 
 ![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA%20values.png)
 
+![Pairplot](https://github.com/arturmark/NYC-Jobs/blob/master/Pairplot.png)
+
 Python shell output:
 
 ![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
