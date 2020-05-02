@@ -26,7 +26,7 @@ Preferred skills with wordcloud:
 
 ![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
 
-Dataset - NA values visualisation:
+Tidy dataset - NA values visualization:
 
 ![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA%20values.png)
 
