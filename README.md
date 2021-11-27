@@ -18,7 +18,7 @@ Started this project in Nov 2019, using at the begining Excel, VBA and power que
 
 
 # Python:
-Recent jobs update: 2020-04-07
+Recent jobs update: 2021-11-27
 
 Summary of Tidy Data (overview):
 
