@@ -20,7 +20,7 @@ Started this project in Nov 2019, using at the begining Excel, VBA and power que
 # Python:
 Recent jobs update: 2020-04-07
 
-Dataset overview:
+Summary of Tidy Data (overview):
 
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/NYC_dataset_overview.PNG)
 
