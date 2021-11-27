@@ -20,6 +20,10 @@ Started this project in Nov 2019, using at the begining Excel, VBA and power que
 # Python:
 Recent jobs update: 2020-04-07
 
+Dataset overview:
+
+![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/NYC_dataset_overview.PNG)
+
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Dashboard.png)
 
 Funnel Chart - Job postings by Categories:
