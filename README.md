@@ -26,7 +26,8 @@ Summary of Tidy Data (overview):
 
 Dataset - NA values visualisation:
 
-![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA%20values.png)
+![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA_Matrix.png)
+![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA_Bar.png)
 
 ()
 
