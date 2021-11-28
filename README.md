@@ -24,6 +24,10 @@ Summary of Tidy Data (overview):
 
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/NYC_dataset_overview.PNG)
 
+Dataset - NA values visualisation:
+
+![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA%20values.png)
+
 ()
 
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Dashboard.png)
@@ -40,9 +44,6 @@ Natural language processing with wordcloud (Preferred skills):
 
 ![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
 
-Dataset - NA values visualisation:
-
-![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA%20values.png)
 
 ![Pairplot](https://github.com/arturmark/NYC-Jobs/blob/master/Pairplot.png)
 
