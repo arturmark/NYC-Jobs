@@ -20,14 +20,12 @@ Started this project in Nov 2019, using at the begining Excel, VBA and power que
 # Python:
 Recent jobs update: 2021-11-27
 
-Summary of Tidy Data (overview):
-
-![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Pictures/NYC_dataset_overview.PNG)
-
 Dataset - NA values visualisation:
-
 ![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Matrix.png)
 ![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Bar.png)
+
+Summary of Tidy Data (overview):
+![Tidy Data](https://github.com/arturmark/NYC-Jobs/blob/master/Pictures/NYC_dataset_overview.PNG)
 
 ()
 
