@@ -34,12 +34,11 @@ Dataset - NA values visualisation:
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Dashboard.png)
 
 Funnel Chart - Job postings by Categories:
-
 ![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Funnel%20(a-z).png)
 
 Job Categories:
-
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
+![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/JobCat_CareerLev.png)
 
 Natural language processing with wordcloud (Preferred skills):
 
