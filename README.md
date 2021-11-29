@@ -26,19 +26,19 @@ Summary of Tidy Data (overview):
 
 Dataset - NA values visualisation:
 
-![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA_Matrix.png)
-![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/NA_Bar.png)
+![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Matrix.png)
+![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Bar.png)
 
 ()
 
-![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Dashboard.png)
+![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Dashboard.png)
 
 Funnel Chart - Job postings by Categories:
-![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Funnel%20(a-z).png)
+![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Funnel%20(a-z).png)
 
 Job Categories:
-![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20Chart-1.png)
-![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/JobCat_CareerLev.png)
+![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Python%20Chart-1.png)
+![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/JobCat_CareerLev.png)
 
 Natural language processing with wordcloud (Preferred skills):
 
@@ -49,11 +49,11 @@ Natural language processing with wordcloud (Preferred skills):
 
 Python shell output:
 
-![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
+![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Python%20analysis.png)
 
 Dataset overview:
 
-![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
+![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Dataset%20overview.png)
 
 
 
