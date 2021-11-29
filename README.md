@@ -22,7 +22,7 @@ Recent jobs update: 2021-11-27
 
 Dataset - NA values visualisation:
 ![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Matrix.png)
-![NA values](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Bar-Raw.png)
+![NA bar](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/NA_Bar-Raw%20data.png)
 
 Summary of Tidy Data (overview):
 ![Tidy Data](https://github.com/arturmark/NYC-Jobs/blob/master/Pictures/NYC_dataset_overview.PNG)
