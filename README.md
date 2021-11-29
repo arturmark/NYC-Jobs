@@ -36,6 +36,8 @@ Funnel Chart - Job postings by Categories:
 
 Job Categories:
 ![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Python%20Chart-1.png)
+![Job Categories](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Job%20Postings%20by%20Category.png)
+
 ![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/JobCat_CareerLev.png)
 
 Natural language processing with wordcloud (Preferred skills):
