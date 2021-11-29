@@ -49,11 +49,11 @@ Natural language processing with wordcloud (Preferred skills):
 
 Python shell output:
 
-![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Python%20analysis.png)
+![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
 
 Dataset overview:
 
-![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Dataset%20overview.png)
+![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
 
 
 
