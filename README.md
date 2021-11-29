@@ -28,7 +28,7 @@ Summary of Tidy Data (overview):
 ![Tidy Data](https://github.com/arturmark/NYC-Jobs/blob/master/Pictures/NYC_dataset_overview.PNG)
 
 ()
-
+Mini Dashboard:
 ![Dashboard](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/Dashboard.png)
 
 Funnel Chart - Job postings by Categories:
@@ -39,18 +39,13 @@ Job Categories:
 ![Funnel Chart](https://github.com/arturmark/NYC-Jobs/blob/master/Charts/JobCat_CareerLev.png)
 
 Natural language processing with wordcloud (Preferred skills):
-
 ![Preferred skills](https://github.com/arturmark/NYC-Jobs/blob/master/Preferred%20skills.png)
-
-
 ![Pairplot](https://github.com/arturmark/NYC-Jobs/blob/master/Pairplot.png)
 
 Python shell output:
-
 ![Python shell](https://github.com/arturmark/NYC-Jobs/blob/master/Python%20analysis.png)
 
 Dataset overview:
-
 ![Dataset overview](https://github.com/arturmark/NYC-Jobs/blob/master/Dataset%20overview.png)
 
 
