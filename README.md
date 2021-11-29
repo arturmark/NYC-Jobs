@@ -10,7 +10,7 @@ The New York official website with current public job postings is available here
 
 https://www1.nyc.gov/jobs/explore-careers.page
 
-![NYC_website](https://github.com/arturmark/NYC-Jobs/blob/master/NYC_website.PNG)
+![NYC_website](https://github.com/arturmark/NYC-Jobs/blob/master/Pictures/NYC_website.PNG)
 
 
 Started this project in Nov 2019, using at the begining Excel, VBA and power query tools to create interactive excel dasboard. Currently are ongoing additional Python analysis shown below.
